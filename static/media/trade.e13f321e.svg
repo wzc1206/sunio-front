@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>治理</title>
+    <defs>
+        <circle id="path-1" cx="13" cy="13" r="9"></circle>
+        <filter x="-13.9%" y="-13.9%" width="138.9%" height="138.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.118805823   0 0 0 0 0.118805823   0 0 0 0 0.162279212  0 0 0 0.197392817 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="M-首页-侧边菜单-展开" transform="translate(-20.000000, -234.000000)">
+            <g id="编组-7备份-9" transform="translate(20.000000, 234.000000)">
+                <circle id="椭圆形" fill="#8B5AEA" cx="9" cy="9" r="9"></circle>
+                <g id="椭圆形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <circle stroke-opacity="0.295454545" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="square" fill-opacity="0.3" fill="#8B5AEA" fill-rule="evenodd" cx="13" cy="13" r="8.5"></circle>
+                </g>
+                <g id="编组-11" transform="translate(7.600000, 7.428571)" stroke="#FFFFFF" stroke-linecap="round" stroke-width="2">
+                    <path d="M3.98739439,2.11587786 L4.96077795,3.08926141 L5.16403161,2.88600775 C5.5545559,2.49548346 6.18772088,2.49548346 6.57824517,2.88600775 C6.76578155,3.07354413 6.87113839,3.32789804 6.87113839,3.59311453 L6.87113839,5.87113839 C6.87113839,6.42342314 6.42342314,6.87113839 5.87113839,6.87113839 L3.59311453,6.87113839 C3.04082978,6.87113839 2.59311453,6.42342314 2.59311453,5.87113839 C2.59311453,5.6059219 2.69847137,5.35156799 2.88600775,5.16403161 L3.0737114,4.97632796 L3.0737114,4.97632796 L1.49423632,3.39685288" id="路径" transform="translate(4.025020, 4.025020) rotate(-135.000000) translate(-4.025020, -4.025020) "></path>
+                    <path d="M6.66071353,5.20869564 L7.63409709,6.18207919 L7.83735075,5.97882553 C8.22787504,5.58830124 8.86104002,5.58830124 9.25156431,5.97882553 C9.43910069,6.16636191 9.54445753,6.42071582 9.54445753,6.68593231 L9.54445753,8.96395617 C9.54445753,9.51624092 9.09674228,9.96395617 8.54445753,9.96395617 L6.26643367,9.96395617 C5.71414892,9.96395617 5.26643367,9.51624092 5.26643367,8.96395617 C5.26643367,8.69873968 5.37179051,8.44438577 5.55932689,8.25684939 L5.74703054,8.06914574 L5.74703054,8.06914574 L4.16755546,6.48967066" id="路径备份-2" transform="translate(6.698339, 7.117837) rotate(-315.000000) translate(-6.698339, -7.117837) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

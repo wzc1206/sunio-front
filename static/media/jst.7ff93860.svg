@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>JST</title>
+    <g id="JST" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="椭圆形" fill="#FFFFFF" cx="30" cy="30" r="30"></circle>
+        <g id="编组" fill="#BB1616">
+            <circle id="椭圆形" stroke="#BB1616" stroke-width="2" fill-opacity="0.2" cx="30" cy="30" r="29"></circle>
+            <path d="M19.5,15 C19.5,20.7989899 24.2010101,25.5 30,25.5 C35.7989899,25.5 40.5,20.7989899 40.5,15 L45,15 C45,23.2842712 38.2842712,30 30,30 C21.7157288,30 15,23.2842712 15,15 L19.5,15 Z M30,15 C31.6568542,15 33,16.3431458 33,18 C33,19.6568542 31.6568542,21 30,21 C28.3431458,21 27,19.6568542 27,18 C27,16.3431458 28.3431458,15 30,15 Z M17,33 L44,33 L44,38 L17,38 L17,33 Z M30,47 C31.6568542,47 33,45.6568542 33,44 C33,42.3431458 31.6568542,41 30,41 C28.3431458,41 27,42.3431458 27,44 C27,45.6568542 28.3431458,47 30,47 Z" id="形状结合"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>TRX</title>
+    <g id="TRX" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="椭圆形" fill="#FFFFFF" cx="30" cy="30" r="30"></circle>
+        <g id="编组-2备份-3" fill="#C23631">
+            <circle id="椭圆形" stroke="#C23631" stroke-width="2" fill-opacity="0.1" cx="30" cy="30" r="29"></circle>
+            <path d="M30.641943,28.7375108 L41.8011771,26.6906851 L29.0010855,42.4854154 L30.641943,28.7375108 Z M29.2012081,28.1166508 L27.48152,42.4896616 L18.201186,18.9000089 L29.2012081,28.1166508 Z M29.9252679,26.0779481 L19.401183,17.4625601 L36.6011284,20.5867801 L29.9252679,26.0779481 Z M38.3453702,21.3594305 L42.0011151,24.8657665 L32.0010782,26.6927158 L38.3453702,21.3594305 Z M38.8174306,19.4467644 L15,15 L27.535243,46.9999889 L45,25.4105651 L38.8174306,19.4467644 Z" id="形状"></path>
+        </g>
+    </g>
+</svg>

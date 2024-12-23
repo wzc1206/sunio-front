@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>USDJ</title>
+    <g id="USDJ" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="椭圆形" fill="#FFFFFF" cx="30" cy="30" r="30"></circle>
+        <g id="编组备份" fill="#B31515">
+            <circle id="椭圆形" stroke="#B31515" stroke-width="2" fill-opacity="0.2" cx="30" cy="30" r="29"></circle>
+            <path d="M40,14 L40,37.390246 C40,42.135557 35.5112098,46 30,46 C24.4887902,46 20,42.135557 20,37.390246 L20,34.116053 L25.0790642,34.116053 L25.0790642,37.390246 C25.0790642,39.7248259 27.2888913,41.6267423 30,41.6267423 C32.7111087,41.6267423 34.9203942,39.7248259 34.9203942,37.390246 L34.9203942,18.3676007 L28.2854977,18.3676007 C32.5457598,17.5638787 36.5079967,16.0552135 40,14 Z M25,26 L25,31 L20,31 L20,26 L25,26 Z" id="形状结合"></path>
+        </g>
+    </g>
+</svg>

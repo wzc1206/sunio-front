@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="8px" viewBox="0 0 8 8" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>箭头</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.699999988"
+        stroke-linecap="round" stroke-linejoin="round">
+        <g id="DAO提案-暗色" transform="translate(-1293.000000, -816.000000)" stroke="#333333" stroke-width="1.5">
+            <g id="编组-9" transform="translate(360.000000, 661.000000)">
+                <g id="编组-15" transform="translate(770.000000, 74.000000)">
+                    <g id="编组-3"
+                        transform="translate(166.383756, 85.000000) rotate(-180.000000) translate(-166.383756, -85.000000) translate(161.767512, 81.000000)">
+                        <polyline id="路径"
+                            transform="translate(6.000000, 4.000000) rotate(-45.000000) translate(-6.000000, -4.000000) "
+                            points="3.71428571 6.28571429 3.71428571 1.71428571 8.28571429 1.71428571"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
