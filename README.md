@@ -11,6 +11,6 @@ Support the exchange of authorized digital currencies of Dominica
 
 If you have any questions about this project, or wish to engage with us:
 
-- [Telegram](https://t.me/SunIO_Defi)
-- [Twitter](https://x.com/sunpumpmeme)
+- [Telegram](https://t.me/officialsunecosystem)
+- [Twitter](https://x.com/OfficialSUNio)
 
