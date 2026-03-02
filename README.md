@@ -11,7 +11,7 @@ SUN.io is an integrated DeFi platform built on the [TRON](https://tron.network/)
 - **Yield Farming & Staking** — Multiple staking options for you to earn more rewards
 - **Governance (DAO)** — Vote on proposals, delegate voting power, and participate in protocol governance
 - **PSM (Peg Stability Module)** — Swap between USDD and other stablecoins at 1:1 ratio
-- **Analytics & Scanner** — Explore tokens, trading pairs, liquidity data, volume, and trending tokens on-chain
+- **Scan** — Explore tokens, trading pairs, liquidity data, volume, and trending tokens on-chain
 - **SunPump** — Token launchpad and meme coin platform
 - **Multi-Wallet Support** — TronLink, TokenPocket, BitKeep, OKX Wallet, Ledger, imToken, Binance Wallet, and WalletConnect
 

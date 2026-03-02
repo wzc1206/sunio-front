@@ -11,7 +11,7 @@ SUN.io 是构建在 [TRON](https://tron.network/) 区块链上的一站式 DeFi 
 - **流动性挖矿与质押** — 多种质押方式，获取更多收益
 - **治理（DAO）** — 参与提案投票、委托投票权，参与协议治理
 - **PSM（锚定稳定模块）** — 在 USDD 与其他稳定币之间进行 1:1 兑换
-- **数据分析与扫描** — 浏览链上代币、交易对、流动性数据、交易量及热门代币
+- **浏览器** — 浏览链上代币、交易对、流动性数据、交易量及热门代币
 - **SunPump** — 代币发射台及 Meme 币平台
 - **多钱包支持** — TronLink、TokenPocket、BitKeep、OKX Wallet、Ledger、imToken、Binance Wallet 及 WalletConnect
 
