@@ -1,4 +1,4 @@
-# SUN.io
+# Sunio-front
 
 [English](./README.md) | [中文](./README_CN.md)
 
