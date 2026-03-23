@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkfront_js=globalThis.webpackChunkfront_js||[]).push([[1878,8357],{10567(s,a,e){e.r(a),e.d(a,{default:()=>l}),e(96540),e(92557);var n=e(75408),i=e(74848);const l=()=>(0,i.jsx)("div",{className:"container",children:(0,i.jsx)(n.A,{isSinglePage:!0})})}}]);
